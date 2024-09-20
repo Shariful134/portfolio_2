@@ -33,28 +33,6 @@ const About = () => {
           </div>
         </div>
       </div>
-
-      {/*         
-      <div className="container mx-auto  pt-20 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
-        <div className="relative">
-          <img className="" src={img_about_2} alt="" />
-          <img className="absolute	left-10 top-1/2" src={img_about_1} alt="" />
-        </div>
-        <div className="text-white max-w-xl">
-          <h4 className="text-xl text-indigo-300  pb-5">About</h4>
-          <h2 className="  text-5xl pb-5">
-            
-          </h2>
-          <p>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don't look even slightly
-            believable.{" "}
-          </p>
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don't look even slightly believable.
-        </div>
-      </div> */}
     </div>
   );
 };
